@@ -1,0 +1,1 @@
+copy /b Entropy_LOGO_GIF_1.gif+1.zip 2.gif
